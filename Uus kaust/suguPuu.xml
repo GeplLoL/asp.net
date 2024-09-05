@@ -1,0 +1,31 @@
+<?xml version="1" encoding="utf-8" ?>
+<sugupuu>
+
+    <inimene>
+        <nimi synniaasta="1907" lane="mees">Ekaterina</nimi>
+        <nimi synniaasta="1905" lane="mees">Svjatoslav</nimi>
+        <nimi synniaasta="1907" lane="naine">Kristina</nimi>
+        <nimi synniaasta="1905" lane="naine">Ivan</nimi>
+        <lapsed>
+            <inimene>
+                <nimi synniaasta="1947" lane="mees">Marija</nimi>
+                <nimi synniaasta="1945" lane="naine">Anton</nimi>
+                <nimi synniaasta="1953" lane="naine">Taisija</nimi>
+                <nimi synniaasta="1958" lane="mees">Igor</nimi>
+                <lapsed>
+                    <inimene>
+                        <nimi synniaasta="1979" lane="naine">Olga</nimi>
+                        <nimi synniaasta="1978" lane="mees">Yuri</nimi>
+                        <lapsed>
+                            <inimene>
+                                <nimi synniaasta="2004">Deniss</nimi>
+                                <nimi synniaasta="2002">Svetlana</nimi>
+                                <nimi synniaasta="2002">Sergei</nimi>
+                            </inimene>
+                        </lapsed>
+                    </inimene>
+                </lapsed>
+            </inimene>
+        </lapsed>
+    </inimene>
+</sugupuu>
